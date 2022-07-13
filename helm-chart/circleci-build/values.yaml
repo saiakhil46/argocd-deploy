@@ -17,7 +17,7 @@ strategy2:
     maxUnavailable: 25%
 
 image:
-  repository: saiakhil46/circleci-build:2e5e457
+  repository: saiakhil46/circleci-build:7253c02
   pullPolicy: Always
   restartPolicy: Always
 
